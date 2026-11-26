@@ -1,19 +1,6 @@
 
 # 🤖 AI Agent Chatbot
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
-  <img src="https://img.shields.io/badge/LangChain-Framework-green" />
-  <img src="https://img.shields.io/badge/LangGraph-Agentic%20AI-orange" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi" />
-  <img src="https://img.shields.io/badge/Streamlit-Frontend-FF4B4B?logo=streamlit" />
-</p>
-
-<p align="center">
-  An interactive AI chatbot that supports multiple LLM providers, customizable system prompts, and optional web search capabilities.
-</p>
-
----
 
 ## 📌 Project Overview
 
